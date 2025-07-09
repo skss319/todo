@@ -10,19 +10,19 @@ function App() {
       <TodosContextProvider>
         <TodosContainer />
       </TodosContextProvider>
-      <div className="text-center text-xs">
+      {/* <div className="text-center text-xs">
         <p>
           Created with ❤️ by{" "}
           <a
             className="text-blue-600"
-            href="https://hossein-i.ir"
+            href="#"
             target="_blank"
             rel="noreferrer"
           >
-            Hossein-i
+            Shubham
           </a>
         </p>
-      </div>
+      </div> */}
     </div>
   );
 }
